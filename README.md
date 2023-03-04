@@ -11,6 +11,7 @@ Welcome to the Arduino-Python Interface Examples repository! This repository con
 - DC Motor
 - One Digit 7-Segment Display
 - Button
+- Buzzer
 
 ## Usage
 Each subdirectory in the repository contains an example code for interfacing a specific component using PyFirmata. PyFirmata is a Python library for communicating with Arduino boards using a standard firmata protocol.
